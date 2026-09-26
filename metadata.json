@@ -1,0 +1,6 @@
+{
+  "name": "Checklist de Viabilidade Avícola",
+  "description": "Aplicativo de análise técnica e sanitária para instalação de aviários de frangos de corte comercial segundo normas do MAPA e Embrapa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
